@@ -19,7 +19,7 @@ const unicodeFromJamo = function(arr) {
   const arr3 = arr.splice(6, 3);
   const arr2 = arr.splice(3);
   const arr1 = arr;
-  return `${String.fromCharCode(makeNumber(arr1))}${String.fromCharCode(makeNumber(arr2))}${String.fromCharCode(makeNumber(arr3))}`;
+  return `${String.fromCharCode(makeNumber(arr1))}`;
 }
 
 function makeNumber(arr) {
