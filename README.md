@@ -33,7 +33,7 @@ In Unicode each Hangŭl letter has a value. These can be used to calculate the U
 
 I have provided an object of jamoValues in the `./src` directory.
 
-If you are really stuck you can look at the [hints at the end of this document.]()
+If you are really stuck you can look at the [hints at the end of this document.](https://github.com/eleanombre/hangul-unicode-dojo#hints)
 
 ## Finished early?
 
@@ -42,6 +42,11 @@ There is a small extension in the `./extension` directory!
 # Have fun and happy coding ! 😁
 
 ## Interesting links
+* [Wikipedia page on Hangŭl](https://en.wikipedia.org/wiki/Hangul)
+* [Wikipedia page on Korean language and computers](https://en.wikipedia.org/wiki/Korean_language_and_computers)
+* [Wikpedia page on Unicode Hangŭl Jamo Block](https://en.wikipedia.org/wiki/Hangul_Jamo_(Unicode_block))
+* [The original Kata I wrote on Codewars](https://www.codewars.com/kata/58223a9f70ca2844e0000592)
+* [A handy reference for Hangŭl unicode syllables](http://jrgraphix.net/r/Unicode/AC00-D7AF)
 
 ## Hints
 #### Warning! spoilers below:
