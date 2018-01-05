@@ -47,6 +47,7 @@ There is a small extension in the `./extension` directory!
 * [Wikpedia page on Unicode Hangŭl Jamo Block](https://en.wikipedia.org/wiki/Hangul_Jamo_(Unicode_block))
 * [The original Kata I wrote on Codewars](https://www.codewars.com/kata/58223a9f70ca2844e0000592)
 * [A handy reference for Hangŭl unicode syllables](http://jrgraphix.net/r/Unicode/AC00-D7AF)
+* [My slides for the dojo presentation](https://slides.com/eleanombre/jamo/live#/12)
 
 ## Hints
 #### Warning! spoilers below:
