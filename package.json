@@ -1,0 +1,17 @@
+{
+  "name": "hanjakata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:final": "mocha ./test/final/finalTestCase",
+    "test:extension": "mocha ./test/extension/extensionTestCase",
+    "test": "mocha test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0"
+  }
+}
